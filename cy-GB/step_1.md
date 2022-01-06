@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+Yn Scratch, mae'n aml yn syniad da rhedeg blociau cod bob tro mae amod yn gywir.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+Galli di wneud hyn drwy roi bloc `os`{:class="block3control"} mewn bloc `am byth`{:class="block3control"}. Bydd angen i ti roi'r sgript ar waith, er enghraifft gyda bloc `pan fydd fflag wedi'i glicio`{:class="block3events"} neu `pan rwy'n derbyn`{:class="block3events"}.
 
-You can check for important conditions in a game:
+Galli di chwilio am amodau pwysig mewn gêm:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3variables"} with a `variable`{:class="block3operators"} value.
+Neu brofi drwy ddefnyddio `gweithredwr`{:class="block3variables"} gyda `newidyn`{:class="block3operators"}.
 
 ```blocks3
 forever
