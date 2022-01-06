@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+En Scratch, a menudo es útil ejecutar bloques de código cada vez que se cumple una condición.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+Puedes hacer esto colocando un bloque `si`{:class="block3control"} dentro de un bloque `por siempre`{:class="block3control"}. Tendrás que activar el script, por ejemplo, con un bloque `al presionar bandera verde ⚑`{:class="block3events"} o un bloque `al recibir`{:class="block3events"}.
 
-You can check for important conditions in a game:
+Puedes comprobar si se cumplen condiciones importantes en un juego:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3variables"} with a `variable`{:class="block3operators"} value.
+O comprobar si se cumple con el uso de un `operador`{:class="block3variables"} con un valor para la `variable`{:class="block3operators"}.
 
 ```blocks3
 forever
