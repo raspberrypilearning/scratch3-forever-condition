@@ -1,11 +1,11 @@
 ---
-title: Checking a condition with if inside a forever loop
+title: Comprobar que una condición con 'si' se cumple dentro de un bucle por siempre
 hero_image: images/banner.png
-description: Use an if statement inside a forever loop to run blocks whenever a condition is true.
+description: Usar una instrucción 'si' dentro de un bucle por siempre para ejecutar bloques cada vez que una condición sea verdadera.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-13"
 steps:
   - 
-    title: Checking a condition in a forever loop
+    title: Comprobar que una condición se cumple dentro de un bucle por siempre
