@@ -1,11 +1,11 @@
 ---
-title: Checking a condition with if inside a forever loop
+title: Een voorwaarde controleren met "als" binnen een herhaallus
 hero_image: images/banner.png
-description: Use an if statement inside a forever loop to run blocks whenever a condition is true.
+description: Gebruik een "als"-opdracht in een herhaallus om blokken uit te voeren wanneer een voorwaarde waar is.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-13"
 steps:
   - 
-    title: Checking a condition in a forever loop
+    title: Een voorwaarde controleren binnen een herhaallus
