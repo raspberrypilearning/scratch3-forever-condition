@@ -7,7 +7,7 @@ Je kunt controleren op belangrijke voorwaarden in een spel:
 ```blocks3
 forever
 if <touching color (#6a4200) ?> then
-say [Nooooo!] for [2] seconds
+say [Neeeeee!] for [2] seconds
 go to (Start v)
 end
 end
@@ -17,8 +17,8 @@ Of gebruik een `functie`{:class="block3variables"} met de waarde van een `variab
 
 ```blocks3
 forever
-if <(health) < [5]> then
-say [Warning! Low health] for [2] seconds
+if <(gezondheid) < [5]> then
+say [Waarschuwing! Matige gezondheid] for [2] seconds
 end
 end
 ```
