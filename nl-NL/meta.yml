@@ -1,0 +1,10 @@
+---
+title: Een voorwaarde controleren met "als" binnen een herhaallus
+hero_image: images/banner.png
+description: Gebruik een "als"-opdracht in een herhaallus om blokken uit te voeren wanneer een voorwaarde waar is.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: Een voorwaarde controleren binnen een herhaallus
