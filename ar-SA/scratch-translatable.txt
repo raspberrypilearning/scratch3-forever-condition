@@ -1,7 +1,7 @@
-Nooooo!
+لا!
 
-health
+الصحة
 
-Warning! Low health
+تحذير! صحة متدنية
 
-Start
+إبدء
