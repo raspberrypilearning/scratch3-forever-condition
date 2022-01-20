@@ -1,11 +1,11 @@
 ---
-title: Checking a condition with if inside a forever loop
+title: التحقق من الشرط إذا كان داخل التعليمة البرمجية كرر باستمرار
 hero_image: images/banner.png
-description: Use an if statement inside a forever loop to run blocks whenever a condition is true.
+description: استخدم عبارة اذا داخل حلقة كرر باستمرار لتشغيل المقطع البرمجي عندما يكون الشرط صحيحًا.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-13"
 steps:
   - 
-    title: Checking a condition in a forever loop
+    title: التحقق من الشرط إذا كان داخل التعليمة البرمجية كرر باستمرار
