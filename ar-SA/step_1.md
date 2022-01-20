@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+غالبًا ما يكون من المفيد في Scratch تشغيل التعليمات البرمجية في كل مرة يصبح فيها الشرط صحيحًا.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+يمكنك القيام بذلك عن طريق وضع `اذا`{: class = "block3control"} داخل التعليمة البرمجية`كرر باستمرار`{: class = "block3control"}. وسوف تحتاج لحدث، على سبيل المثال `عند نقر العلم` {:class="block3events"} أو المقطع البرمجي `عندما اتلقى`{:class="block3events"}.
 
-You can check for important conditions in a game:
+يمكنك التحقق من الشروط المهمة في اللعبة:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3variables"} with a `variable`{:class="block3operators"} value.
+أو افحص باستخدام `العمليات`{:class="block3variables"} بقيمة `متغير`{:class="block3operators"}.
 
 ```blocks3
 forever
