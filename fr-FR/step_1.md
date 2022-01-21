@@ -18,7 +18,7 @@ Ou vérifier l'utilisation d'un `opérateur`{:class="block3variables"} avec une 
 ```blocks3
 forever
 if <(santé) < [5]> then
-say [ttention ! Santé faible] for [2] seconds
+say [Attention ! Santé faible] for [2] seconds
 end
 end
 ```
