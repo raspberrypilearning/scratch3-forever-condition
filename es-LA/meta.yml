@@ -1,0 +1,10 @@
+---
+title: Comprobar que una condición con 'si' se cumple dentro de un bucle por siempre
+hero_image: images/banner.png
+description: Usar una instrucción 'si' dentro de un bucle por siempre para ejecutar bloques cada vez que una condición sea verdadera.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: Comprobar que una condición se cumple dentro de un bucle por siempre
