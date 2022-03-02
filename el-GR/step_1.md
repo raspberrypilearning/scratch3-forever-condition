@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+Στο Scratch είναι συχνά χρήσιμο να εκτελείς μπλοκ κώδικα κάθε φορά που μια συνθήκη γίνεται αληθής.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+Για να το κάνεις αυτό τοποθέτησε ένα μπλοκ `εάν`{:class="block3control"} μέσα σε ένα μπλοκ `για πάντα`{:class="block3control"}. Θα χρειαστεί να ενεργοποιήσεις το script, για παράδειγμα με ένα μπλοκ `όταν γίνει κλικ στη σημαία`{:class="block3events"} ή με ένα μπλοκ `όταν λάβω`{:class="block3events"}.
 
-You can check for important conditions in a game:
+Μπορείς να ελέγξεις για σημαντικές συνθήκες σε ένα παιχνίδι:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3variables"} with a `variable`{:class="block3operators"} value.
+Εναλλακτικά, χρησιμοποίησε έναν `τελεστή`{:class="block3variables"} με μια τιμή `μεταβλητής`{:class="block3operators"}.
 
 ```blocks3
 forever
