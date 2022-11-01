@@ -1,0 +1,10 @@
+---
+title: Перевірка умови з if-виразом всередині вічного циклу
+hero_image: images/banner.png
+description: Використовуй if-вирази всередині вічного циклу для запуску блоків щоразу, коли виконується умова.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: Перевірка умови з вічним циклом
