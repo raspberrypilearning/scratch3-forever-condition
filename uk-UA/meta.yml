@@ -1,11 +1,11 @@
 ---
-title: Checking a condition with if inside a forever loop
+title: Перевірка умови з if-виразом всередині вічного циклу
 hero_image: images/banner.png
-description: Use an if statement inside a forever loop to run blocks whenever a condition is true.
+description: Використовуй if-вирази всередині вічного циклу для запуску блоків щоразу, коли виконується умова.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-13"
 steps:
   - 
-    title: Checking a condition in a forever loop
+    title: Перевірка умови з вічним циклом
