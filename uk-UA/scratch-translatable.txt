@@ -1,7 +1,7 @@
-Nooooo!
+Ніііі!
 
-health
+здоров'я
 
-Warning! Low health
+Увага! Низький рівень здоров'я
 
-Start
+Старт
