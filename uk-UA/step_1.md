@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+У Scratch часто буває корисно запускати блоки коду щоразу, коли умова виконується.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+Зробити це можна, розмістивши блок `якщо`{:class="block3control"} всередині блоку `завжди`{:class="block3control"}. Тобі потрібно буде запустити скрипт, наприклад, за допомогою блоків `коли прапорець натиснуто`{:class="block3events"} або `коли я отримую`{:class="block3events"}.
 
-You can check for important conditions in a game:
+Ти можеш перевірити наявність важливих умов у грі:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3variables"} with a `variable`{:class="block3operators"} value.
+Або перевірити за допомогою `оператора`{:class="block3variables"} зі значенням величини `змінної`{:class="block3operators"}.
 
 ```blocks3
 forever
