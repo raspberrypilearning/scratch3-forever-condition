@@ -13,7 +13,7 @@ end
 end
 ```
 
-Ou vérifier l'utilisation d'un `opérateur`{:class="block3variables"} avec une valeur `variable`{:class="block3operators"}.
+Ou vérifier l'utilisation d'un `opérateur`{:class="block3operators"} avec une valeur `variable`{:class="block3variables"}.
 
 ```blocks3
 forever
