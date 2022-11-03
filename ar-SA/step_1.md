@@ -13,7 +13,7 @@ end
 end
 ```
 
-أو افحص باستخدام `العمليات`{:class="block3variables"} بقيمة `متغير`{:class="block3operators"}.
+Or check use an `operator`{:class="block3operators"} with a `variable`{:class="block3variables"} value.
 
 ```blocks3
 forever
