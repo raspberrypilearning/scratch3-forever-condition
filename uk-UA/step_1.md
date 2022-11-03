@@ -13,7 +13,7 @@ end
 end
 ```
 
-Або перевірити за допомогою `оператора`{:class="block3variables"} зі значенням величини `змінної`{:class="block3operators"}.
+Or check use an `operator`{:class="block3operators"} with a `variable`{:class="block3variables"} value.
 
 ```blocks3
 forever
