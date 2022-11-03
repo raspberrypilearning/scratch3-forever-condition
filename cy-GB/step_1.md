@@ -13,7 +13,7 @@ end
 end
 ```
 
-Neu brofi drwy ddefnyddio `gweithredwr`{:class="block3variables"} gyda `newidyn`{:class="block3operators"}.
+Neu brofi drwy ddefnyddio `gweithredwr`{:class="block3operators"} gyda `newidyn`{:class="block3variables"}.
 
 ```blocks3
 forever
