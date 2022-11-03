@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3variables"} with a `variable`{:class="block3operators"} value.
+Or check use an `operator`{:class="block3operators"} with a `variable`{:class="block3variables"} value.
 
 ```blocks3
 forever
