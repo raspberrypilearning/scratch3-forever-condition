@@ -13,7 +13,7 @@ end
 end
 ```
 
-Εναλλακτικά, χρησιμοποίησε έναν `τελεστή`{:class="block3variables"} με μια τιμή `μεταβλητής`{:class="block3operators"}.
+Εναλλακτικά, χρησιμοποίησε έναν `τελεστή`{:class="block3operators"} με μια τιμή `μεταβλητής`{:class="block3variables"}.
 
 ```blocks3
 forever
