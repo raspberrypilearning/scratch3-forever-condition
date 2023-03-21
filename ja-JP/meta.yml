@@ -1,0 +1,10 @@
+---
+title: ずっと ループ内で、もし...なら を使って条件をチェックする
+hero_image: images/banner.png
+description: ずっと ループ内で もし...なら ステートメントを使うと、条件が 真 のときにブロックを実行することができます。
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: ずっと ループ内で条件をチェックする
