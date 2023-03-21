@@ -1,7 +1,7 @@
-Nooooo!
+いやー！
 
-health
+健康値
 
-Warning! Low health
+警告! 健康値が下がっています
 
-Start
+スタート
