@@ -7,7 +7,7 @@ Tu peux vérifier des conditions importantes dans un jeu :
 ```blocks3
 forever
 if <touching color (#6a4200) ?> then
-say [Noooon !] for [2] seconds
+say [Noooon !] for [2] seconds
 go to (Départ v)
 end
 end
