@@ -1,5 +1,5 @@
 ---
-title: Checking a condition with if inside a forever loop
+title: Verificando uma condição com if, dentro de um laço infinito
 hero_image: images/banner.png
 description: Use an if statement inside a forever loop to run blocks whenever a condition is true.
 version: 4
