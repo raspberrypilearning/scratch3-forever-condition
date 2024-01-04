@@ -1,7 +1,7 @@
-Nooooo!
+Nãoooo!
 
-health
+saúde
 
-Warning! Low health
+Aviso! Saúde baixa
 
-Start
+Começar
