@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+W Scratchu często przydatne jest uruchamianie bloków kodu za każdym razem, gdy warunek stanie się prawdziwy.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+Możesz to wykonać umieszczając blok warunkowy `if` wewnątrz bloku pętli `forever`{:class="block3control"}. Będziesz musiał uruchomić skrypt, na przykład warunkiem `po kliknięciu flagi`{:class="block3events"} lub blokiem `gdy otrzymam`{:class="block3events"}.
 
-You can check for important conditions in a game:
+Możesz sprawdzić ważne warunki w grze:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3operators"} with a `variable`{:class="block3variables"} value.
+Lub sprawdzić używając `operatora`{:class="block3operators"} z wartością `zmiennych`{:class="block3variables"}.
 
 ```blocks3
 forever
