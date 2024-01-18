@@ -1,6 +1,6 @@
 W Scratchu często przydatne jest uruchamianie bloków kodu za każdym razem, gdy warunek stanie się prawdziwy.
 
-Możesz to wykonać umieszczając blok warunkowy `if` wewnątrz bloku pętli `forever`{:class="block3control"}. Będziesz musiał uruchomić skrypt, na przykład warunkiem `po kliknięciu flagi`{:class="block3events"} lub blokiem `gdy otrzymam`{:class="block3events"}.
+Możesz to wykonać umieszczając blok warunkowy `jeżeli` wewnątrz bloku pętli `zawsze`{:class="block3control"}. Będziesz musiał uruchomić skrypt, na przykład warunkiem `kiedy kliknięto flagę`{:class="block3events"} lub blokiem `kiedy otrzymam`{:class="block3events"}.
 
 Możesz sprawdzić ważne warunki w grze:
 
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Lub sprawdzić używając `operatora`{:class="block3operators"} z wartością `zmiennych`{:class="block3variables"}.
+Lub sprawdzić używając `wyrażenie`{:class="block3operators"} z wartością `zmiennych`{:class="block3variables"}.
 
 ```blocks3
 forever
