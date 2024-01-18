@@ -1,11 +1,11 @@
 ---
-title: Checking a condition with if inside a forever loop
+title: Sprawdzanie warunku za pomocą "if" w nieskończonej pętli
 hero_image: images/banner.png
-description: Use an if statement inside a forever loop to run blocks whenever a condition is true.
+description: Używanie warunku "if" wewnątrz nieskończonej pętli do uruchomienia bloków, gdy warunek jest spełniony.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-05-13"
 steps:
   - 
-    title: Checking a condition in a forever loop
+    title: Sprawdzanie warunku za pomocą "if" w nieskończonej pętli
