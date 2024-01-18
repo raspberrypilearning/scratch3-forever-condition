@@ -1,6 +1,6 @@
 W Scratchu często przydatne jest uruchamianie bloków kodu za każdym razem, gdy warunek stanie się prawdziwy.
 
-Możesz to wykonać umieszczając blok warunkowy `jeżeli` wewnątrz bloku pętli `zawsze`{:class="block3control"}. Będziesz musiał uruchomić skrypt, na przykład warunkiem `kiedy kliknięto flagę`{:class="block3events"} lub blokiem `kiedy otrzymam`{:class="block3events"}.
+Możesz to wykonać umieszczając blok warunkowy `jeżeli`{:class="block3control"} wewnątrz bloku pętli `zawsze`{:class="block3control"}. Będziesz musiał uruchomić skrypt, na przykład warunkiem `kiedy kliknięto flagę`{:class="block3events"} lub blokiem `kiedy otrzymam`{:class="block3events"}.
 
 Możesz sprawdzić ważne warunki w grze:
 
