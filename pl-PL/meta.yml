@@ -1,0 +1,10 @@
+---
+title: Sprawdzanie warunku za pomocą "jeżeli" w nieskończonej pętli
+hero_image: images/banner.png
+description: Używanie warunku "jeżeli" wewnątrz nieskończonej pętli do uruchomienia bloków, gdy warunek jest spełniony.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: Sprawdzanie warunku za pomocą "jeżeli" w nieskończonej pętli
