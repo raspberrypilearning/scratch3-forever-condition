@@ -1,8 +1,8 @@
-In Scratch it's often useful to run code blocks every time a condition becomes true.
+Ve Scratchi je často užitečné spouštět bloky kódu pokaždé, když se podmínka stane pravdivou.
 
-You can do this by placing an `if`{:class="block3control"} block inside a `forever`{:class="block3control"} block. You will need to trigger the script, for example with a `when flag clicked`{:class="block3events"} or `when I receieve`{:class="block3events"} block.
+Můžete to udělat umístěním bloku `když`{:class="block3control"} do bloku `opakuj pořád`{:class="block3control"}. Budeš muset spustit skript, například `při kliknutí na vlajku`{:class="block3events"} nebo ` když obdržím`{:class="block3events"} blok.
 
-You can check for important conditions in a game:
+Můžete kontrolovat důležité podmínky ve hře:
 
 ```blocks3
 forever
@@ -13,7 +13,7 @@ end
 end
 ```
 
-Or check use an `operator`{:class="block3operators"} with a `variable`{:class="block3variables"} value.
+Nebo použít `operátor`{:class="block3variables"} s `Proměnnou`{:class="block3variables"}.
 
 ```blocks3
 forever
