@@ -1,0 +1,10 @@
+---
+title: Verificando uma condição com if, dentro de um laço infinito
+hero_image: images/banner.png
+description: Use uma instrução if dentro de um laço infinito para executar blocos sempre que uma condição for verdadeira.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: Verificando uma condição em um laço infinito
