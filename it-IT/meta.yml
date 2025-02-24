@@ -1,0 +1,10 @@
+---
+title: Controllare una condizione con "se" all'interno di un loop infinito
+hero_image: images/banner.png
+description: Utilizza un'istruzione "se" all'interno di un loop infinito per eseguire blocchi di codice ogni volta che una condizione è vera.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-05-13"
+steps:
+  - title: Controllare una condizione in un loop infinito
